@@ -9,15 +9,15 @@
 <h1 align="center">Wisata</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{muhammadwahfi04}}/wisata?color=56BEB8">
+  <!-- <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{muhammadwahfi04}}/wisata?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{https://github.com/muhammadwahfi04/WebsiteWisata.git}}/wisata?color=56BEB8">
+  <!-- <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{https://github.com/muhammadwahfi04/WebsiteWisata.git}}/wisata?color=56BEB8"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/wisata?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/wisata?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/wisata?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/wisata?color=56BEB8" /> --> -->
 </p>
 
 <!-- Status -->
@@ -34,7 +34,7 @@
   <a href="#Persyaratan">Persyaratan</a> &#xa0; | &#xa0;
   <a href="#Penggunaan">Penggunaan</a> &#xa0; | &#xa0;
   <a href="#Struktur Proyek">Struktur Proyek</a> &#xa0; | &#xa0;
-  <a href="#Instalasi">Instalasik</a> &#xa0; | &#xa0;
+  <a href="#Instalasi">Instalasi</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{muhammadwahfi04}}" target="_blank">Author</a>
 </p>

@@ -9,13 +9,9 @@
 <h1 align="center">Wisata</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/wisata?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{muhammadwahfi04}}/wisata?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/wisata?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/wisata?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/wisata?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{https://github.com/muhammadwahfi04/WebsiteWisata.git}}/wisata?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/wisata?color=56BEB8" /> -->
 
@@ -33,13 +29,14 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#Deskripsi">Deskripsi</a> &#xa0; | &#xa0; 
+  <a href="#Fitur">Fitur</a> &#xa0; | &#xa0;
+  <a href="#Persyaratan">Persyaratan</a> &#xa0; | &#xa0;
+  <a href="#Penggunaan">Penggunaan</a> &#xa0; | &#xa0;
+  <a href="#Struktur Proyek">Struktur Proyek</a> &#xa0; | &#xa0;
+  <a href="#Instalasi">Instalasik</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/{{muhammadwahfi04}}" target="_blank">Author</a>
 </p>
 
 <br>
@@ -74,7 +71,12 @@ Wonderfull Bengkulu merupakan website pemesanan paket wisata yang ada di Bengkul
 - `cread.php`: Buat data pemesanan
 - `daftar_pemesanan.php`: Halaman untuk melihat daftar-daftar pemesanan. disini dapat melakukan edit dan hapus data
 
-
+## Instalasi
+1. Clone repository: `git clone https://github.com/muhammadwahfi04/WebsiteWisata.git`
+2. Masuk ke direktori proyek: `cd WebsiteWisata`
+3. Buat database dan impor file SQL: `db_pemesanan.sql`
+4. Ubah konfigurasi database di `db.php`
+5. Jalankan website melalui localhost atau web server.
 
 
 ## :white_check_mark: Requirements ##
